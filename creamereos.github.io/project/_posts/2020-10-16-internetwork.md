@@ -4,7 +4,7 @@ title: CS50 - 인터넷과 네트워크
 subtitle: 하버드 대학에서 진행하는 컴퓨터과학 기초 교양 과목
 gh-repo: creamereos/creamereos.github.io
 gh-badge: [star, follow]
-tags: [CS50, 컴퓨터 교양, 컴퓨터, 프로그래밍]
+tags: [컴퓨터 교양]
 comments: true
 ---
 

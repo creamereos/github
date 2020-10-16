@@ -4,7 +4,7 @@ title: CS50 - 컴퓨터와 컴퓨팅
 subtitle: 하버드 대학에서 진행하는 컴퓨터과학 기초 교양 과목
 gh-repo: creamereos/creamereos.github.io
 gh-badge: [star, follow]
-tags: [CS50, 컴퓨터 교양, 컴퓨터]
+tags: [컴퓨터 교양]
 comments: true
 ---
 # [컴퓨터와 컴퓨팅]
